@@ -1,1 +1,3 @@
 print -r -f ("Hello World!");
+
+print -r -f ("Hello Dusik!");
